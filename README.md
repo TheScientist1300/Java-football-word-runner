@@ -1,2 +1,2 @@
-# Java football word runner
+# Java football word runner side project
  
